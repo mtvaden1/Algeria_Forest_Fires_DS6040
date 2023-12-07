@@ -10,3 +10,12 @@ To run the code for this assignment, use the jupyter notebook attached in this r
 In order for the code to work, you will need to download [this dataset](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset) from the UCI Machine Learning Repository.
 
 Additionally, here is the list of libraries and versions that you will need to have installed for the code to function properly:
+
+arviz 0.15.1
+matplotlib 3.7.1
+sklearn 1.2.2
+numpy 1.23.5
+pymc 5.7.2
+scipy 1.11.4
+pandas 1.5.3
+seaborn 0.12.2
