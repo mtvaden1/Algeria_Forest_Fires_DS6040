@@ -5,7 +5,7 @@ Leveraging Bayesian methods to understand how certain climatic measures contribu
 
 **Code Instructions**
 
-To run the code for this assignment, use the jupyter notebook attached in this repository- [AlgeriaFiresProject.ipynb](https://github.com/mtvaden1/Algeria_Forest_Fires_DS6040/blob/main/AlgeriaFiresProject.ipynb)
+To run the code for this assignment, use the jupyter notebook attached in this repository- [AlgeriaFiresProject_Report.ipynb](https://github.com/mtvaden1/Algeria_Forest_Fires_DS6040/blob/main/AlgeriaFiresProject_Report.ipynb)
 
 In order for the code to work, you will need to download [this dataset](https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset) from the UCI Machine Learning Repository and add it to the same directory as your jupyter notebook.
 
